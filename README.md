@@ -1,7 +1,7 @@
 # ChatBot-using-Python
-- Hi, I am G.Vignesh
-- i am computer science engineering Student
-- I’m a Editor, Beginner Web Developer, Begineer app developer, blogger and Student
+- Hi, This is My project.
+- Create ChatBot Using Python
+- this project using python, nltk
 - Please visit my youtube channel for any updates
 - https://www.youtube.com/@Graduate-Hands-Tamil
 - My website
