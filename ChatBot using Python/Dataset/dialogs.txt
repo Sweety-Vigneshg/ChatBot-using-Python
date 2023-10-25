@@ -5,7 +5,7 @@ no problem. so how have you been?	i've been great. what about you?
 i've been great. what about you?	i've been good. i'm in school right now.
 i've been good. i'm in school right now.	what school do you go to?
 what school do you go to?	i go to Trichy Engineering College.
-i go to pcc.	do you like it there?
+i go to Trichy Engineering College.	do you like it there?
 do you like it there?	it's okay. it's a really big campus.
 it's okay. it's a really big campus.	good luck with school.
 good luck with school.	thank you very much.
