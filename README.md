@@ -4,7 +4,7 @@
 - this project using python, nltk
 - Please visit my youtube channel for any updates
 - https://www.youtube.com/@Graduate-Hands-Tamil
-- My website
+- website
 - http://vigneshgbe.unaux.com
 - I’m looking to collaboration 
 - Follow Me on YouTube
