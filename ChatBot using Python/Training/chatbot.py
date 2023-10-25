@@ -18,7 +18,7 @@ from nltk.chat.util import Chat, reflections
 
 """**Create a Dataset**"""
 
-pairs = [
+dialogs = [
     [
         r"hi|hello|hey|howdy|yo",
         ["Hello!", "Hi there!", "Hey!", "Howdy!", "Yo! How can I assist you today?"]
@@ -45,7 +45,7 @@ pairs = [
     ],
     [
         r"how old are you|when were you created",
-        ["I don't have an age, but I was created by OpenAI.", "I'm a relatively new creation, born in the realm of algorithms."]
+        ["I don't have an age, but I was created by Vignesh G.", "I'm a relatively new creation, born in the realm of algorithms."]
     ],
     [
         r"thanks|thank you",
@@ -270,7 +270,7 @@ pairs = [
 
 """**Create a ChatBot**"""
 
-chatbot = Chat(pairs, reflections)
+chatbot = Chat(dialogs, reflections)
 
 """**Define a Function for Interaction**"""
 
