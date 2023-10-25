@@ -16,7 +16,7 @@ so how have you been lately?	i've actually been pretty good. you?
 i've actually been pretty good. you?	i'm actually in school right now.
 i'm actually in school right now.	which school do you attend?
 which school do you attend?	i'm attending pcc right now.
-i'm attending pcc right now.	are you enjoying it there?
+i'm attending Trichy Engineering College right now.	are you enjoying it there?
 are you enjoying it there?	it's not bad. there are a lot of people there.
 it's not bad. there are a lot of people there.	good luck with that.
 good luck with that.	thanks.
