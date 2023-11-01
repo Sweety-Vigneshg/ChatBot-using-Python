@@ -7,7 +7,7 @@ i've been good. i'm in school right now.	what school do you go to?
 what school do you go to?	i go to Trichy Engineering College.
 i go to Trichy Engineering College.	do you like it there?
 do you like it there?	it's okay. it's a really big campus.
-it's okay. it's a really big campus.	good luck with school.
+it's okay. it's a really big campus. good luck with school.
 good luck with school.	thank you very much.
 how's it going?	i'm doing well. how about you?
 i'm doing well. how about you?	never better, thanks.
